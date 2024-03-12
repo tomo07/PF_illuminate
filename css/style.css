@@ -179,6 +179,7 @@ h1 {
     font-size: 16px;
     line-height: 1.6;
     margin-bottom: 100px;
+    text-align: justify;
 }
 
 a:nth-child(1){
